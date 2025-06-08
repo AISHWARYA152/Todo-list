@@ -2,16 +2,16 @@
 
 > A minimal and visually appealing to-do list landing page designed to inspire daily action and focus.
 
-🎓 This is my *first project, built as part of a web development learning  using **HTML* and *CSS* .
+🎓 This is my *first project*, built as part of a web development learning  using **HTML** and **CSS**.
 
 ---
 ---
 
 ## 📌 Project Overview
 
-The *Todolist* project is a motivational, HTML & CSS-based landing page.  
+The *Todolist* project is a motivational, HTML & CSS-based landing page.
 It emphasizes simplicity and encourages users to complete one meaningful task each day.  
-The interface includes a *daily goal, an **inspirational quote, and a clear **call to action*, all set against a visually compelling background.
+The interface includes a *daily goal*, an *inspirational quote*\, and a clear *call to action*, all set against a visually compelling background.
 
 ---
 
@@ -32,8 +32,8 @@ The interface includes a *daily goal, an **inspirational quote, and a clear **ca
 
 ## 💻 Technologies Used
 
-- 🌐 *HTML5* – semantic and structured
-- 🎨 *CSS3* – custom styling and layout design
+- 🌐 **HTML5** – semantic and structured
+- 🎨 **CSS3** – custom styling and layout design
 
 > 💡 No external libraries or frameworks were used.  
 This project is built entirely from scratch for foundational learning.
@@ -44,8 +44,8 @@ This project is built entirely from scratch for foundational learning.
 
 - 🏗 Writing *semantic HTML* for clean structure and accessibility
 - 🎨 Applying *modern CSS* for layout and visual design
-- 🖼 Using *background images* effectively
-- 🧠 Creating *reusable and organized code*
+- 🖼 Using **background images** effectively
+- 🧠 Creating **reusable and organized code**
 - 🧩 Building *interactive UI* with HTML & CSS only
 
 ---
