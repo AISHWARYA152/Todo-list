@@ -53,4 +53,4 @@ This project is built entirely from scratch for foundational learning.
 ## 🤝 Connect with Me
 
 i'm eager to connect and collaborate with fellow developers.Feel free to reach out!
-- 💼 [LinkedIn](in/aishwarya-chinagundi-21a341356)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-chinagundi-21a341356)
