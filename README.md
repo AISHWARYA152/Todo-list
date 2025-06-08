@@ -1,9 +1,7 @@
 # 📝 Todolist
 
-> A minimal and visually appealing to-do list landing page designed to inspire daily action and focus.
-
 🎓 This is my *first project*, built as part of a web development learning  using **HTML** and **CSS**.
-
+> A minimal and visually appealing to-do list landing page designed to inspire daily action and focus.
 ---
 ---
 
