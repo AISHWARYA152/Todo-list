@@ -20,11 +20,11 @@ The interface includes a *daily goal*, an *inspirational quote*\, and a clear *c
 
 ## ✨ Features
 
-- 🎯 *Single daily goal layout* – keeps focus on one task
-- 💬 *Inspirational quote section* – builds motivation
-- 🌄 *Full-screen background image* – clean, aesthetic design
-- 🔘 *Interactive “Start” button* – engages the user
-- ⚡ *Fast & lightweight* – no libraries, pure code
+ 🎯 *Single daily goal layout* – keeps focus on one task
+ 💬 *Inspirational quote section* – builds motivation
+ 🌄 *Full-screen background image* – clean, aesthetic design
+ 🔘 *Interactive “Start” button* – engages the user
+⚡ *Fast & lightweight* – no libraries, pure code
 
 ---
 
@@ -50,5 +50,5 @@ This project is built entirely from scratch for foundational learning.
 
 ## 🤝 Connect with Me
 
-i'm eager to connect and collaborate with fellow developers.Feel free to reach out!
+i'm eager to connect and collaborate with fellow developers.Feel free to reach out!⚡
 - 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-chinagundi-21a341356)
