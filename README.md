@@ -40,8 +40,8 @@ This project is built entirely from scratch for foundational learning.
 
 ## 📚 What I Learned
 
-- 🏗 Writing *semantic HTML* for clean structure and accessibility
-- 🎨 Applying *modern CSS* for layout and visual design
+- 🏗 Writing **semantic HTML** for clean structure and accessibility
+- 🎨 Applying modern **CSS** for layout and visual design
 - 🖼 Using **background images** effectively
 - 🧠 Creating **reusable and organized code**
 - 🧩 Building *interactive UI* with HTML & CSS only
